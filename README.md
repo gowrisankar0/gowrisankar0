@@ -1,4 +1,4 @@
-[![MasterHead](https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/167121800/original/91edbdbc9875196cc50f56337f4e1aea00534b12/your-awesome-mern-stack-developer.jpg)]
+![MasterHead](https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/167121800/original/91edbdbc9875196cc50f56337f4e1aea00534b12/your-awesome-mern-stack-developer.jpg)
 
 <h1 align="center">Hi 👋, I'm Gowri Sankar</h1>
 <h3 align="center">A passionate { MERN } Fullstack Developper</h3>
