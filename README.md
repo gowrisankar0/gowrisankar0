@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently Looking **MERN Development**
 
-- 🤝 I’m looking for help with [Frontend](Backend)
+- 🤝 I’m looking for help with [Frontend][Backend]
 
 - 💬 Ask me about **React,Node,Express**
 
@@ -16,11 +16,11 @@
 
 - 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1v-8YNGKO9Eyql9Y3Exm__-WYZVzvks4I](https://drive.google.com/drive/u/0/folders/1v-8YNGKO9Eyql9Y3Exm__-WYZVzvks4I)
 
-
+[![MasterHead](https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/167121800/original/91edbdbc9875196cc50f56337f4e1aea00534b12/your-awesome-mern-stack-developer.jpg)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gowri-sankar-b875a520b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gowri-sankar-b875a520b/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gowri-sankar-b875a520b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gowri-sankar-b875a520b/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
