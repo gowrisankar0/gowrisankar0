@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1v-8YNGKO9Eyql9Y3Exm__-WYZVzvks4I](https://drive.google.com/drive/u/0/folders/1v-8YNGKO9Eyql9Y3Exm__-WYZVzvks4I)
 
-[![MasterHead](https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/167121800/original/91edbdbc9875196cc50f56337f4e1aea00534b12/your-awesome-mern-stack-developer.jpg)]
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
